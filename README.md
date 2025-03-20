@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krathor2212
+- 👋 Hi, I’m Purushothaman Srinivasan
 - 👀 I’m interested in coding & game development
 - 🌱 I’m currently learning in Anna University,Ceg
 - 💞️ I’m looking to collaborate on game development & full stack web development
